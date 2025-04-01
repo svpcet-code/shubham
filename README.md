@@ -1,24 +1,18 @@
 
 <!DOCTYPE html>
 <html>
-
 <head>
-
   <title></title>
   <style>
     marquee {
       motion-rotation: 3px;
       
-    }
-    
+    } 
     h1{
       text-align: center;
       text-decoration: underline;
       color : brown ;
-      border-radius: 2px;
-      
-      
-      
+      border-radius: 2px;      
     }
   </style>
 </head>
