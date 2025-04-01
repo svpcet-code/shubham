@@ -20,7 +20,7 @@
 <body bgcolor="gray">
   
 <h1>🙏🏻Welcome 🙏🏻</h1>
-<marquee><h2>This is class section A 2<sup>nd</sup>Sem</h2></marquee>
+<marquee><h2>This code by  section A 2<sup>nd</sup>Sem</h2> student</marquee>
 <h3>subject :</h3>
 <ol>
   <li>mwt</li>
