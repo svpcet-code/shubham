@@ -20,12 +20,10 @@
 <body bgcolor="gray">
   
 <h1>🙏🏻Welcome 🙏🏻</h1>
-<marquee><h2>This code by  section A 2<sup>nd</sup>Sem</h2> student</marquee>
+<marquee><h2>code by section A 2<sup>nd</sup>Sem</h2> student</marquee>
 <h3>programs:</h3>
 <ol>
   <li>Dice roll game</li>
-  <li>physics</li>
-  <li>python</li>
 </ol>
 </body>
 
