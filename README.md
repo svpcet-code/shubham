@@ -21,9 +21,9 @@
   
 <h1>🙏🏻Welcome 🙏🏻</h1>
 <marquee><h2>This code by  section A 2<sup>nd</sup>Sem</h2> student</marquee>
-<h3>subject :</h3>
+<h3>programs:</h3>
 <ol>
-  <li>mwt</li>
+  <li>Dice roll game</li>
   <li>physics</li>
   <li>python</li>
 </ol>
